@@ -1,0 +1,18 @@
+#box{
+    border:5px solid green;
+    width:350px;
+    margin-right:auto;
+    margin-left:auto;
+    padding:5px;
+    text-align:center;
+    color:blue;
+    background-color:aquamarine;
+
+}
+#image{
+    width:275px;
+    margin-right:auto;
+    margin-left:auto;
+    padding:5px;
+
+}
